@@ -1,4 +1,4 @@
-
+advanced Tableau Desktop for macOS Helper | custom-functions + symbolic-computation is the best Tableau Desktop for macOS helper, featuring custom-functions and
 
 
 
